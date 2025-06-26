@@ -18,8 +18,8 @@ CREDITS=製作團隊
 QUIT=退出
 
 NEW ISLAND IN=<size\=80%\>新島嶼倒數
-r:(\d+)h (\d+)m (\d+)s=$1小時 $2分 $3秒
-r:(\d+)h(\d+)h(\d+)h=$1小時$2小時$3小時
+r:(\d+)h (\d+)m (\d+)s=<size\=80%>$1時 $2分 $3秒
+r:(\d+)h(\d+)h(\d+)h=<size\=80%>$1時$2時$3時
 NO DATA=<size\=90%\>無資料
 
 Thank you for playing PEAK! Pro tip, tapping SPRINT while climbing makes you do a LUNGE!=感謝您遊玩 PEAK！小提示：在攀爬時點擊衝刺可以進行衝刺跳躍！
@@ -51,7 +51,7 @@ Graphics=圖形
 Window Mode=視窗模式
 Fullscreen=全螢幕
 Windowed=視窗化
-Windowed Fullscreen=視窗化全螢幕
+Windowed Fullscreen=無邊框視窗
 
 Max Framerate=最大幀率
 
@@ -127,17 +127,17 @@ ACCOLADES=成就
 Scout=童軍
 r:PEAKS SUMMITED: (\d+)=登頂次數：$1
 You don't have this badge yet!=你尚未獲得此徽章！
-Have a friend escape the island without you.=讓一位好友在無你的情況下逃離島嶼。
+Have a friend escape the island without you.=讓一位好友在沒有你的幫助下逃離島嶼。
 Escape the island in under an hour.=在一小時內逃離島嶼。
 Help Bing Bong escape the island.=幫助賓邦逃離島嶼。
-Climb past the SHORE.=攀登超越海岸。
-Climb past the TROPICS.=攀登超越熱帶。
-Escape the island without eating any packaged food.=不食用任何包裝食品逃離島嶼。
+Climb past the SHORE.=攀越海岸。
+Climb past the TROPICS.=攀越熱帶。
+Escape the island without eating any packaged food.=不食用任何包裝食品下逃離島嶼。
 Escape the island after cooking and eating a coconut half, a honeycomb, a yellow winterberry, and an egg.=在烹飪並食用半個椰子、蜂巢、黃色冬莓和雞蛋後逃離島嶼。
-Climb past the ALPINE.=攀登超越阿爾卑斯。
-Climb past the CALDERA.=攀登超越火山口。
+Climb past the ALPINE.=攀越阿爾卑斯。
+Climb past the CALDERA.=攀越火山口。
 Eat four different non-toxic mushrooms in a single expedition.=在單次探險中食用四種不同的無毒蘑菇。
-Heal your friends for 100 points of injury in a single expedition.=在單次探險中為好友治療100點傷害。
+Heal your friends for 100 points of injury in a single expedition.=在單次探險中為好友治療100點。
 Reach the PEAK.=到達頂峰。
 Cook 20 meals at campfires.=在營火處烹飪20份餐點。
 Escape the island without ever losing consciousness.=在未失去意識的情況下逃離島嶼。
@@ -150,14 +150,14 @@ Restore 200 total poison by using items.=使用道具恢復200點中毒值。
 Eat 5 different berries in a single expedition.=在單次探險中食用5種不同的莓果。
 Place 100m of rope in a single expedition.=在單次探險中放置100米繩索。
 Obtain a mystical item.=獲得神秘道具。
-Heal an unconscious friend with an item to save them from death.=使用道具治療昏迷的好友以救其免於死亡。
+Heal an unconscious friend with an item to save them from death.=使用道具把昏迷的好友從死亡前拉回來。
 Climb 5000m total.=總計攀登5000米。
 Escape the island in a solo expedition.=在單人探險中逃離島嶼。
 Resurrect 3 scouts in a single expedition.=在單次探險中復活3名童軍。
 Open 15 luggages in a single expedition.=在單次探險中開啟15個行李箱。
-Escape the island without taking fall damage.=不受到墜落傷害逃離島嶼。
+Escape the island without taking fall damage.=不受到墜落傷害下逃離島嶼。
 Read all of Scoutmaster Myres's journal entries.=閱讀童軍領袖邁爾斯的所有日誌。
-Escape the island without placing anything on the mountain.=不放置任何物品於山上逃離島嶼。
+Escape the island without placing anything on the mountain.=山上不遺留任何物品下逃離島嶼。
 Climb 50m upwards without touching the ground.=向上攀登50米不觸碰地面。
 
 Beachcomber Badge=海岸探險者徽章
@@ -167,7 +167,7 @@ Volcanology Badge=火山學者徽章
 Peak Badge=頂峰徽章
 Participation Badge=參與徽章
 Esoterica Badge=神秘學徽章
-Clutch Badge=救急徽章
+Clutch Badge=關鍵表現徽章
 First Aid Badge=急救徽章
 Happy Camper Badge=快樂露營者徽章
 Emergency Preparedness Badge=緊急應變徽章
@@ -312,7 +312,7 @@ Button Shroom=紐扣菇
 Chubby Shroom=胖菇
 Weird Shroom=怪菇
 
-Airline Food=航空餐
+Airline Food=飛機餐
 
 Big Lollipop=大型棒棒糖
 lick=舔食

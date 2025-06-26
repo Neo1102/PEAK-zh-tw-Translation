@@ -20,7 +20,7 @@
 ## 💻如何安裝翻譯模組？
 ### 📦使用 Thunderstore Mod Manager / Gale Mod Manager
 - 遊戲選擇「PEAK」，按需要自行新增設定檔
-- 在 Mod Manager 搜尋 `PEAK Tranditional Chinese Translate`
+- 在 Mod Manager 搜尋 `PEAK Traitional Chinese Translate`
 - 按下下載按鈕，等待依賴模組＆本翻譯模組下載完成
 - 透過 Mod Manager 中的「Launch Game」按鈕啟動遊戲，搞掂！
 
@@ -35,6 +35,6 @@
 
 ## 🙏🏻銘謝 Special Thanks
 ### - [✯RTLC Team](https://discord.gg/QahpjZzGkm)
-- Permitted to build this mod base on [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/)
+- This mod base on [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/)
 
 
