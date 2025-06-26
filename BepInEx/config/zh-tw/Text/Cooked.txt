@@ -1,9 +1,9 @@
 ##Cooked.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
 
-Cooked Bing Bong=熟透的賓邦
-Well-done Bing Bong=烤得好的賓邦
-Burnt Bing Bong=燒焦的賓邦
-Incinerated Bing Bong=炭化的賓邦
+Cooked Bing Bong=熟透的兵幫
+Well-done Bing Bong=烤得好的兵幫
+Burnt Bing Bong=燒焦的兵幫
+Incinerated Bing Bong=炭化的兵幫
 Cooked Conch=熟透的貝殼
 Well-done Conch=烤得好的貝殼
 Burnt Conch=燒焦的貝殼

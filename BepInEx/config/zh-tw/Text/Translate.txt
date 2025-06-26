@@ -38,6 +38,7 @@ Field of view=視野範圍
 Mouse Sensitivity=滑鼠靈敏度
 Controller Sensitivity=控制器靈敏度
 Invert Y=反轉 Y 軸
+Invert X=反轉 X 軸
 OFF=關閉
 ON=開啟
 Lobby Mode=大廳模式
@@ -101,17 +102,8 @@ Music Volume=音樂音量
 SFX Volume=音效音量
 Voices Volume=語音音量
 
-#製作團隊（前面展示英文名，後面再用括號展示翻譯中文名）#
-
+#製作團隊#
 A GAME MADE BY=遊戲製作
-Wilhelm Nylund=Wilhelm Nylund (威廉·尼倫德)
-Nick Kaman=Nick Kaman (尼克·卡曼)
-Petter Henriksson=Petter Henriksson (彼得·亨里克森)
-Galen Drew=Galen Drew (蓋倫·德魯)
-Zorro Svärdendahl=Zorro Svärdendahl (佐羅·斯瓦登達爾)
-Erik Skog=Erik Skog (艾瑞克·斯庫格)
-Caelan Rashby-Pollock=Caelan Rashby-Pollock (凱蘭·拉什比-波洛克)
-
 A COLLAB BETWEEN=合作單位
 THANKS FOR PLAYING!=感謝遊玩！
 
@@ -119,7 +111,7 @@ THANKS FOR PLAYING!=感謝遊玩！
 
 RESUME=繼續
 LEAVE GAME\n=離開遊戲\n
-INVITE FRIENDS=<size\=85%>邀請好友
+INVITE FRIENDS=<size\=85%>邀請好麻吉們來玩
 
 #成就#
 
@@ -129,19 +121,19 @@ r:PEAKS SUMMITED: (\d+)=登頂次數：$1
 You don't have this badge yet!=你尚未獲得此徽章！
 Have a friend escape the island without you.=讓一位好友在沒有你的幫助下逃離島嶼。
 Escape the island in under an hour.=在一小時內逃離島嶼。
-Help Bing Bong escape the island.=幫助賓邦逃離島嶼。
-Climb past the SHORE.=攀越海岸。
-Climb past the TROPICS.=攀越熱帶。
-Escape the island without eating any packaged food.=不食用任何包裝食品下逃離島嶼。
-Escape the island after cooking and eating a coconut half, a honeycomb, a yellow winterberry, and an egg.=在烹飪並食用半個椰子、蜂巢、黃色冬莓和雞蛋後逃離島嶼。
-Climb past the ALPINE.=攀越阿爾卑斯。
-Climb past the CALDERA.=攀越火山口。
+Help Bing Bong escape the island.=幫助兵幫逃離島嶼。
+Climb past the SHORE.=攀越「海岸」。
+Climb past the TROPICS.=攀越「熱帶」。
+Escape the island without eating any packaged food.=不吃任何包裝食品下逃離島嶼。
+Escape the island after cooking and eating a coconut half, a honeycomb, a yellow winterberry, and an egg.=在烹飪並吃掉半個椰子、蜂巢、黃色冬莓和雞蛋後逃離島嶼。
+Climb past the ALPINE.=攀越「阿爾卑斯」。
+Climb past the CALDERA.=攀越「火山口」。
 Eat four different non-toxic mushrooms in a single expedition.=在單次探險中食用四種不同的無毒蘑菇。
 Heal your friends for 100 points of injury in a single expedition.=在單次探險中為好友治療100點。
 Reach the PEAK.=到達頂峰。
 Cook 20 meals at campfires.=在營火處烹飪20份餐點。
 Escape the island without ever losing consciousness.=在未失去意識的情況下逃離島嶼。
-Play the bugle for a capybara.=為水豚吹奏號角。
+Play the bugle for a capybara.=向卡皮巴拉吹奏號角。
 Receive 5 Morale Boosts from campfires.=從營火處獲得5次士氣提升。
 Place 10 pitons.=放置10個岩釘。
 Reach the top of a really big tree.=到達一棵巨大樹木的頂端。
@@ -161,7 +153,7 @@ Escape the island without placing anything on the mountain.=山上不遺留任�
 Climb 50m upwards without touching the ground.=向上攀登50米不觸碰地面。
 
 Beachcomber Badge=海岸探險者徽章
-Trailblazer Badge=開路者徽章
+Trailblazer Badge=開拓者徽章
 Alpinist Badge=阿爾卑斯登山者徽章
 Volcanology Badge=火山學者徽章
 Peak Badge=頂峰徽章
@@ -184,7 +176,7 @@ Bouldering Badge=抱石攀岩徽章
 Mycology Badge=真菌學徽章
 Knot Tying Badge=繩結徽章
 Survivalist Badge=生存者徽章
-Bing Bong Badge=賓邦徽章
+Bing Bong Badge=兵幫徽章
 Lone Wolf Badge=孤狼徽章
 Speed Climber Badge=快速攀登者徽章
 Balloon Badge=氣球徽章
@@ -216,7 +208,7 @@ GOAT SCOUT=山羊童軍
 
 CONTROLS=操作
 open=開啟
-eat=食用
+eat=吃
 drink=飲用
 use\n=使用\n
 throw=投擲
@@ -261,25 +253,25 @@ Big Luggage=大型行李箱
 Explorer's Luggage=探險者行李箱
 Ancient Luggage=古老行李箱
 
-Bing Bong=賓邦
+Bing Bong=兵幫
 Conch=海螺
 
 Backpack=背包
 wear<br> Backpack=穿戴<br>背包
-sr:"^stash<br>(.+)$"=存放<br>$1
-sr:"^take<br>(.+)$"=拿取<br>$1
+sr:"^stash<br>(.+)$"=放下<br>$1
+sr:"^take<br>(.+)$"=拿起<br>$1
 
-sr:"^Cooked (.+)$"=$1 (熟透)
+sr:"^Cooked (.+)$"=$1 (已熟透)
 sr:"^Well-done (.+)$"=$1 (烤得恰好)
-sr:"^Burnt (.+)$"=$1 (燒焦)
-sr:"^Incinerated (.+)$"=$1 (炭化)
+sr:"^Burnt (.+)$"=$1 (已燒焦)
+sr:"^Incinerated (.+)$"=$1 (已炭化)
 
 Granola Bar=穀物棒
 Trail Mix=雜錦果乾
 
-Lantern=提燈
-Light Lantern=點亮提燈
-Snuff Lantern=熄滅提燈
+Lantern=燈籠
+Light Lantern=點亮燈籠
+Snuff Lantern=熄滅燈籠
 
 Flare=信號彈
 light=點燃
@@ -307,28 +299,28 @@ Chain=鏈條
 Vine=藤蔓
 
 Bugle Shroom=號角菇
-Cluster Shroom=叢生菇
+Cluster Shroom=簇狀菇
 Button Shroom=紐扣菇
 Chubby Shroom=胖菇
-Weird Shroom=怪菇
+Weird Shroom=可疑的菇
 
 Airline Food=飛機餐
 
 Big Lollipop=大型棒棒糖
-lick=舔食
+lick=舔
 
 Marshmallow=棉花糖
 
-Faerie Lantern=仙女提燈
+Faerie Lantern=仙女燈籠
 Inspect=檢查
-Medicinal Root=藥用根
+Medicinal Root=藥用植物的根
 Open=開啟
 Pirate's Compass=海盜指南針
 
 Piton=岩釘
 piton=岩釘
-set piton=設置岩釘
-set=設置
+set piton=放置岩釘
+set=放置
 
 Scout Cookies=童軍餅乾
 Sports Drink=運動飲料
@@ -347,11 +339,11 @@ Remove tick=移除蜱蟲
 Heat Pack=熱敷包
 heat up=加熱
 
-Big Egg=大蛋
+Big Egg=大雞蛋
 Egg=雞蛋
 
 Beehive=蜂巢
-Honeycomb=蜂蜜巢
+Honeycomb=有蜂蜜的蜂巢
 
 Shelf Fungus=架上真菌
 Remedy Fungus=治療真菌
@@ -368,7 +360,7 @@ Plant=放置
 Cursed Skull=詛咒頭骨
 commune=聯繫
 
-Pandora's Lunchbox=潘朵拉午餐盒
+Pandora's Lunchbox=潘朵拉的午餐盒
 open?=開啟？
 
 Magic Bean=魔法豆
@@ -438,7 +430,7 @@ Orange Berrynana=橙色莓蕉
 Berrynana Peel=莓蕉皮
 
 Scorchberry=灼莓
-Napberry=眠莓
+Napberry=睡眠莓
 
 Antidote=解毒劑
 
@@ -470,7 +462,7 @@ CRABLAND=蟹地
 ##大廳##
 
 Invite Kiosk=邀請站
-Invite Friends=邀請好友
+Invite Friends=邀請好麻吉們來玩
 Rope=繩索
 
 #登機#
@@ -489,32 +481,30 @@ Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀爬消�
 Peak=頂峰
 The Island's default difficulty.=島嶼的預設難度。
 
-Ascent 1=攀登 1
+Ascent 1=攀登挑戰 1
 Fall Damage is greater.=墜落傷害更大。
 
-Ascent 2=攀登 2
-Hunger grows faster.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=飢餓增長更快。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+Ascent 2=攀登挑戰 2
+Hunger grows faster.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=會更快感到餓\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
 
-Ascent 3=攀登 3
-Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=道具重量增加。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+Ascent 3=攀登挑戰 3
+Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=道具重量增加\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
 
-Ascent 4=攀登 4
-Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=頂峰無信號彈。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+Ascent 4=攀登挑戰 4
+#[WRONG] Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=頂峰無信號彈\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果#
 
-Ascent 5=攀登 5
-The night is cold.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=夜晚寒冷。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+Ascent 5=攀登挑戰 5
+The night is cold.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=夜晚變得寒冷\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
 
-Ascent 6=攀登 6
-Climbing takes additional stamina.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=攀爬消耗更多體力。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+Ascent 6=攀登挑戰 6
+Climbing takes additional stamina.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=攀爬消耗更多體力\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
 
-Ascent 7=攀登 7
-You cannot revive the dead.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=無法復活死亡者。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+Ascent 7=攀登挑戰 7
+You cannot revive the dead.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=死亡後無法復活\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
 
-r:"^Ascent (\d+) UNLOCKED!$"=攀登 $1 已解鎖！
+r:"^Ascent (\d+) UNLOCKED!$"=攀登挑戰 $1 已解鎖！
 
-ASCENTS UNLOCKED=攀登已解鎖
-NICK KAMAN\nZORRO SVARDENDAHL\nPETTER HENRIKSSON=尼克·卡曼 佐羅·斯瓦登達爾 彼得·亨里克森
-GALEN DREW\nCAELAN RASHBY-POLLOCK\nWILHELM NYLUND\nERIK SKOG=蓋倫·德魯 凱蘭·拉什比-波洛克 威廉·尼倫德 艾瑞克·斯庫格
+ASCENTS UNLOCKED=攀登挑戰已解鎖
 PRESS ANY BUTTON TO CONTINUE=按任意鍵繼續
 
 REWARD:=獎勵：
@@ -526,14 +516,14 @@ Guidebook=指南書
 Open/Close=<size\=80%\>開啟/關閉
 Flip Page=翻頁
 
-How to Not Die=<size\=50%\>如何不死
+How to Not Die=<size\=50%\>怎樣避免死掉
 A Guide by\nScoutmaster Myres=指南由\n童軍領袖邁爾斯撰寫
 
 PREFACE=前言
 	Ahh....................................................................................................................................................................... nature.\n\nWhat greater ecstasy in this life than crunching down on a succulent granola bar while the wind blows across your scalp atop one of this world's many miraculous mountaintops?\n\nBut of course, nature is not just some fairground amusement, some attraction we might enjoy leisurely from behind glass! Indeed, nature is as dangerous as it is beautiful. And the view is much better from 10,000 feet up than 6 feet under! (Dead)\n\nIn my 40 years as a Scoutmaster, I've accumulated a variety of rules for surviving dangerous wilderness situations that should help you out in the unlikely event one of your scout outings goes horribly wrong. But of course, all of these rules pale in comparison to the guiding rule of all scoutdom...=<size\=28>	啊....................................................................................................................................................................... 大自然。\n\n在這個世界上，有什麼比在奇妙的山頂上，風吹過你的頭皮時，咬一口多汁的穀物棒更令人陶醉的呢？\n\n但當然，大自然不僅僅是遊樂場的娛樂設施，不是我們隔著玻璃悠閒欣賞的景點！的確，大自然既美麗又危險。從10,000英尺高處的景色遠比6英尺深的地下好看！（死亡）\n\n在我40年的童軍領袖生涯中，我積累了許多在危險荒野中生存的規則，這些規則應該能幫助你應對童軍活動不幸出錯的罕見情況。但當然，這些規則與童軍的最高準則相比都顯得微不足道...</size>
 
 RULE 0\n=規則 0\n
-NEVER ABANDON A FRIEND IN NEED!=永遠不要拋棄需要幫助的朋友！
+NEVER ABANDON A FRIEND IN NEED!=永遠不要放棄需要幫助的朋友！
 -Scoutmaster Myres=-童軍領袖邁爾斯
 
 RULE 1=規則 1
@@ -606,15 +596,15 @@ WHERE'D EVERYONE GO?=大家都去哪了？
 
 DON'T FORGET <size\=150%>RULE 0!=<size\=110%>不要忘記\n\n規則 0！
 RULE 0 RULE 0 RULE 0 RULE 0=<size\=70%\>規則 0 規則 0 規則 0 規則 0
-	Never Abandon a Friend in Need!=	永遠不要拋棄需要幫助的朋友！
+	Never Abandon a Friend in Need!=	永遠不要放棄需要幫助的朋友！
 THEY=他們
 LEFT=離開
 ME=我
 BEHIND=被拋下
 
 #1#
-SCAN YOUR SHROOMS!=掃描你的菇類！
-	Mushrooms can be a valuable source of nutrition in the wilderness. But watch out!! Some of them can kill you, or even make you poop your pants.\n\n	There's always a way to tell the poisonous ones apart, though. Here's just one example!=菇類在野外可是珍貴的營養來源。但小心點！有些菇類會致命，甚至讓你嚇得拉褲子了。\n\n	不過，總有方法分辨哪些是有毒的。這裡只是一個例子！
+SCAN YOUR SHROOMS!=掃描你手中的菇！
+	Mushrooms can be a valuable source of nutrition in the wilderness. But watch out!! Some of them can kill you, or even make you poop your pants.\n\n	There's always a way to tell the poisonous ones apart, though. Here's just one example!=神奇蘑菇在野外可是珍貴的營養來源。但小心點！有些菇類會殺掉你，讓你嚇得拉褲子。\n\n	不過，總有方法分辨哪些是有毒的，這個只是其中一個例子！
 
 #2#
 GATHER 'ROUND THE FIRE!=圍繞營火集合！

@@ -21,7 +21,7 @@
 - 主頁面、物品 (Translate.txt)
 - 載入、天數 (Loading.txt)
 - 烤過的物品 (Cooked.txt)
-- 拿取/存放 (Stash Take.txt)
+- 拿起/放下 (Stash Take.txt)
 
 ## 💭夜芷冰的呢喃
 ```
