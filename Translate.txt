@@ -1,0 +1,770 @@
+##Translate.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+
+##載入中##
+
+THIS GAME USES VOICE CHAT=<size\=90%\>此遊戲使用語音聊天
+PLEASE USE HEADPHONES AND A MICROPHONE=請使用耳機和麥克風
+SELECT MICROPHONE=選擇麥克風
+CONTINUE=繼續
+Connecting...=連線中...
+Authenticating...=驗證中...
+
+##主選單##
+
+HOST GAME=創建遊戲
+PLAY OFFLINE=單機遊玩
+SETTINGS\n=設定\n
+CREDITS=製作團隊
+QUIT=退出
+
+NEW ISLAND IN=<size\=80%\>新島嶼倒數
+r:(\d+)h (\d+)m (\d+)s=$1小時 $2分 $3秒
+r:(\d+)h(\d+)h(\d+)h=$1小時$2小時$3小時
+NO DATA=<size\=90%\>無資料
+
+Thank you for playing PEAK! Pro tip, tapping SPRINT while climbing makes you do a LUNGE!=感謝您遊玩 PEAK！小提示：在攀爬時點擊衝刺可以進行衝刺跳躍！
+Thank you for playing PEAK! Sorry about the floating luggage!=感謝您遊玩 PEAK！抱歉有漂浮的行李！
+We're investigating crashes, disconnects and other major issues! Thanks for your patience <3=我們正在調查遊戲崩潰、斷線及其他重大問題！感謝您的耐心 <3
+Tropics crash has been resolved! More fixes coming soon. Thanks for your patience <3=熱帶地區的崩潰問題已解決！更多修復即將推出，感謝您的耐心 <3
+
+##設定##
+
+BACK=返回
+
+#一般#
+
+General=一般
+Field of view=視野範圍
+Mouse Sensitivity=滑鼠靈敏度
+Controller Sensitivity=控制器靈敏度
+Invert Y=反轉 Y 軸
+OFF=關閉
+ON=開啟
+Lobby Mode=大廳模式
+Friends=好友
+Invite Only=僅限邀請
+
+#圖形#
+
+Graphics=圖形
+
+Window Mode=視窗模式
+Fullscreen=全螢幕
+Windowed=視窗化
+Windowed Fullscreen=視窗化全螢幕
+
+Max Framerate=最大幀率
+
+Vsync=垂直同步
+None=無
+Enabled=啟用
+
+Render Scale=渲染縮放
+Native=原生
+High=高
+Medium=中
+Low=低
+
+Shadow Distance=陰影距離
+Off=關閉
+
+World Quality=世界品質
+Ambient Occlusion=環境光遮蔽
+
+Resolution=解析度
+1920x1080=1920x1080
+1760x990=1760x990
+1680x1050=1680x1050
+1600x900=1600x900
+1366x768=1366x768
+1280x1024=1280x1024
+1280x720=1280x720
+1128x634=1128x634
+1024x768=1024x768
+832x624=832x624
+800x600=800x600
+720x480=720x480
+720x400=720x400
+640x480=640x480
+
+#音訊#
+
+Audio=音訊
+Microphone=麥克風
+
+Microphone mode=麥克風模式
+Voice Activation=語音啟動
+Push To Talk [V]=按鍵通話 [V]
+
+Master Volume=主音量
+Music Volume=音樂音量
+SFX Volume=音效音量
+Voices Volume=語音音量
+
+#製作團隊（前面展示英文名，後面再用括號展示翻譯中文名）#
+
+A GAME MADE BY=遊戲製作
+Wilhelm Nylund=Wilhelm Nylund (威廉·尼倫德)
+Nick Kaman=Nick Kaman (尼克·卡曼)
+Petter Henriksson=Petter Henriksson (彼得·亨里克森)
+Galen Drew=Galen Drew (蓋倫·德魯)
+Zorro Svärdendahl=Zorro Svärdendahl (佐羅·斯瓦登達爾)
+Erik Skog=Erik Skog (艾瑞克·斯庫格)
+Caelan Rashby-Pollock=Caelan Rashby-Pollock (凱蘭·拉什比-波洛克)
+
+A COLLAB BETWEEN=合作單位
+THANKS FOR PLAYING!=感謝遊玩！
+
+##暫停##
+
+RESUME=繼續
+LEAVE GAME\n=離開遊戲\n
+INVITE FRIENDS=<size\=85%>邀請好友
+
+#成就#
+
+ACCOLADES=成就
+Scout=童軍
+r:PEAKS SUMMITED: (\d+)=登頂次數：$1
+You don't have this badge yet!=你尚未獲得此徽章！
+Have a friend escape the island without you.=讓一位好友在無你的情況下逃離島嶼。
+Escape the island in under an hour.=在一小時內逃離島嶼。
+Help Bing Bong escape the island.=幫助賓邦逃離島嶼。
+Climb past the SHORE.=攀登超越海岸。
+Climb past the TROPICS.=攀登超越熱帶。
+Escape the island without eating any packaged food.=不食用任何包裝食品逃離島嶼。
+Escape the island after cooking and eating a coconut half, a honeycomb, a yellow winterberry, and an egg.=在烹飪並食用半個椰子、蜂巢、黃色冬莓和雞蛋後逃離島嶼。
+Climb past the ALPINE.=攀登超越阿爾卑斯。
+Climb past the CALDERA.=攀登超越火山口。
+Eat four different non-toxic mushrooms in a single expedition.=在單次探險中食用四種不同的無毒蘑菇。
+Heal your friends for 100 points of injury in a single expedition.=在單次探險中為好友治療100點傷害。
+Reach the PEAK.=到達頂峰。
+Cook 20 meals at campfires.=在營火處烹飪20份餐點。
+Escape the island without ever losing consciousness.=在未失去意識的情況下逃離島嶼。
+Play the bugle for a capybara.=為水豚吹奏號角。
+Receive 5 Morale Boosts from campfires.=從營火處獲得5次士氣提升。
+Place 10 pitons.=放置10個岩釘。
+Reach the top of a really big tree.=到達一棵巨大樹木的頂端。
+Have a 1-on-1 with the Scoutmaster.=與童軍領袖進行一對一談話。
+Restore 200 total poison by using items.=使用道具恢復200點中毒值。
+Eat 5 different berries in a single expedition.=在單次探險中食用5種不同的莓果。
+Place 100m of rope in a single expedition.=在單次探險中放置100米繩索。
+Obtain a mystical item.=獲得神秘道具。
+Heal an unconscious friend with an item to save them from death.=使用道具治療昏迷的好友以救其免於死亡。
+Climb 5000m total.=總計攀登5000米。
+Escape the island in a solo expedition.=在單人探險中逃離島嶼。
+Resurrect 3 scouts in a single expedition.=在單次探險中復活3名童軍。
+Open 15 luggages in a single expedition.=在單次探險中開啟15個行李箱。
+Escape the island without taking fall damage.=不受到墜落傷害逃離島嶼。
+Read all of Scoutmaster Myres's journal entries.=閱讀童軍領袖邁爾斯的所有日誌。
+Escape the island without placing anything on the mountain.=不放置任何物品於山上逃離島嶼。
+Climb 50m upwards without touching the ground.=向上攀登50米不觸碰地面。
+
+Beachcomber Badge=海岸探險者徽章
+Trailblazer Badge=開路者徽章
+Alpinist Badge=阿爾卑斯登山者徽章
+Volcanology Badge=火山學者徽章
+Peak Badge=頂峰徽章
+Participation Badge=參與徽章
+Esoterica Badge=神秘學徽章
+Clutch Badge=救急徽章
+First Aid Badge=急救徽章
+Happy Camper Badge=快樂露營者徽章
+Emergency Preparedness Badge=緊急應變徽章
+Plunderer Badge=掠奪者徽章
+High Altitude Badge=高海拔徽章
+Foraging Badge=採集徽章
+Arborist Badge=樹木學者徽章
+Endurance Badge=耐力徽章
+Mentorship Badge=導師徽章
+Cooking Badge=烹飪徽章
+Animal Serenading Badge=動物奏樂徽章
+Toxicology Badge=毒理學徽章
+Bouldering Badge=抱石攀岩徽章
+Mycology Badge=真菌學徽章
+Knot Tying Badge=繩結徽章
+Survivalist Badge=生存者徽章
+Bing Bong Badge=賓邦徽章
+Lone Wolf Badge=孤狼徽章
+Speed Climber Badge=快速攀登者徽章
+Balloon Badge=氣球徽章
+Naturalist Badge=自然學者徽章
+Leave No Trace Badge=無痕徽章
+Gourmand Badge=美食家徽章
+Bookworm Badge=書蟲徽章
+
+#階級#
+
+Tadpole Scout=<size\=80%>蝌蚪童軍
+TADPOLE SCOUT=蝌蚪童軍
+Rabbit Scout=兔子童軍
+RABBIT SCOUT=兔子童軍
+Raccoon Scout=浣熊童軍
+RACCOON SCOUT=浣熊童軍
+Mule Scout=騾子童軍
+MULE SCOUT=騾子童軍
+Kangaroo Scout=<size\=80%>袋鼠童軍
+KANGAROO SCOUT=袋鼠童軍
+Owl Scout=貓頭鷹童軍
+OWL SCOUT=貓頭鷹童軍
+Wolf Scout=狼童軍
+WOLF SCOUT=狼童軍
+Goat Scout=山羊童軍
+GOAT SCOUT=山羊童軍
+
+##操作##
+
+CONTROLS=操作
+open=開啟
+eat=食用
+drink=飲用
+use\n=使用\n
+throw=投擲
+zoom=放大
+drop=丟棄
+hold\n=保持\n
+pick up=拾取
+Grab=抓住
+cook=烹飪
+give up=放棄
+lunge=衝刺
+
+Move=移動
+Aim\n=瞄準\n
+Climb\n=攀爬\n
+Helping Hand=援手
+Interact=互動
+Drop / Throw (hold)=丟棄/投擲（長按）
+Jump\n=跳躍\n
+Crouch\n=蹲下\n
+Sprint / Leap (while climbing)\n=衝刺/跳躍（攀爬時）\n
+Ping Location\n=標記位置\n
+EMOTE\n=表情動作\n
+
+Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援操作重新映射。\n您可以使用 Steam Input 重新映射手柄按鍵。
+
+##表情動作##
+
+Salute=敬禮
+Thumbs Up=豎起大拇指
+Think=思考
+No-No=搖頭拒絕
+Play Dead=裝死
+Shrug=聳肩
+Crossed Arms=雙臂交叉
+Dance=跳舞
+
+##道具##
+
+Luggage=行李箱
+Big Luggage=大型行李箱
+Explorer's Luggage=探險者行李箱
+Ancient Luggage=古老行李箱
+
+Bing Bong=賓邦
+Conch=海螺
+
+Backpack=背包
+wear<br> Backpack=穿戴<br>背包
+sr:"^stash<br>(.+)$"=存放<br>$1
+sr:"^take<br>(.+)$"=拿取<br>$1
+
+sr:"^Cooked (.+)$"=$1 (熟透)
+sr:"^Well-done (.+)$"=$1 (烤得恰好)
+sr:"^Burnt (.+)$"=$1 (燒焦)
+sr:"^Incinerated (.+)$"=$1 (炭化)
+
+Granola Bar=穀物棒
+Trail Mix=雜錦果乾
+
+Lantern=提燈
+Light Lantern=點亮提燈
+Snuff Lantern=熄滅提燈
+
+Flare=信號彈
+light=點燃
+
+Bugle=號角
+Compass=指南針
+Coconut=椰子
+Coconut Half=半個椰子
+
+Anti-rope=反繩
+Anti-Rope=反繩
+anti-rope spool=反繩捲
+rope spool=繩捲
+spool=展開
+tie knot=綁繩結
+r:"^(\d+\.\d+)m$"=$1米
+
+Energy Drink=能量飲料
+
+First Aid Kit=急救包
+Bandages=繃帶
+heal injuries=治療傷口
+
+Chain=鏈條
+Vine=藤蔓
+
+Bugle Shroom=號角菇
+Cluster Shroom=叢生菇
+Button Shroom=紐扣菇
+Chubby Shroom=胖菇
+Weird Shroom=怪菇
+
+Airline Food=航空餐
+
+Big Lollipop=大型棒棒糖
+lick=舔食
+
+Marshmallow=棉花糖
+
+Faerie Lantern=仙女提燈
+Inspect=檢查
+Medicinal Root=藥用根
+Open=開啟
+Pirate's Compass=海盜指南針
+
+Piton=岩釘
+piton=岩釘
+set piton=設置岩釘
+set=設置
+
+Scout Cookies=童軍餅乾
+Sports Drink=運動飲料
+rope cannon=繩炮
+anti-rope cannon=反繩炮
+shoot=射擊
+
+Blowgun=吹箭管
+fire=射擊
+
+Chain Launcher=鏈條發射器
+
+Tick=蜱蟲
+Remove tick=移除蜱蟲
+
+Heat Pack=熱敷包
+heat up=加熱
+
+Big Egg=大蛋
+Egg=雞蛋
+
+Beehive=蜂巢
+Honeycomb=蜂蜜巢
+
+Shelf Fungus=架上真菌
+Remedy Fungus=治療真菌
+Bounce Fungus=彈性真菌
+
+Cure-All=萬能藥
+
+Binoculars=雙筒望遠鏡
+look=觀看
+
+Turtle Flag=烏龜旗
+Plant=放置
+
+Cursed Skull=詛咒頭骨
+commune=聯繫
+
+Pandora's Lunchbox=潘朵拉午餐盒
+open?=開啟？
+
+Magic Bean=魔法豆
+
+Scout Effigy=童軍雕像
+revive=復活
+
+Scoutmaster's Bugle=童軍領袖號角
+
+Warp Compass=傳送指南針
+warp=傳送
+
+Scroll=卷軸
+Stick=木棒
+Stone=石頭
+Megaphone=擴音器
+
+Green Crispberry=綠色脆莓
+Red Crispberry=紅色脆莓
+Yellow Crispberry=黃色脆莓
+Purple Crispberry=紫色脆莓
+Black Crispberry=黑色脆莓
+Blue Crispberry=藍色脆莓
+Pink Crispberry=粉紅色脆莓
+Brown Crispberry=棕色脆莓
+Orange Crispberry=橙色脆莓
+
+Green Kingberry=綠色王莓
+Red Kingberry=紅色王莓
+Yellow Kingberry=黃色王莓
+Purple Kingberry=紫色王莓
+Black Kingberry=黑色王莓
+Blue Kingberry=藍色王莓
+Pink Kingberry=粉紅色王莓
+Brown Kingberry=棕色王莓
+Orange Kingberry=橙色王莓
+
+Green Clusterberry=綠色叢莓
+Red Clusterberry=紅色叢莓
+Yellow Clusterberry=黃色叢莓
+Purple Clusterberry=紫色叢莓
+Black Clusterberry=黑色叢莓
+Blue Clusterberry=藍色叢莓
+Pink Clusterberry=粉紅色叢莓
+Brown Clusterberry=棕色叢莓
+Orange Clusterberry=橙色叢莓
+
+Green Winterberry=綠色冬莓
+Red Winterberry=紅色冬莓
+Yellow Winterberry=黃色冬莓
+Purple Winterberry=紫色冬莓
+Black Winterberry=黑色冬莓
+Blue Winterberry=藍色冬莓
+Pink Winterberry=粉紅色冬莓
+Brown Winterberry=棕色冬莓
+Orange Winterberry=橙色冬莓
+
+Green Berrynana=綠色莓蕉
+Red Berrynana=紅色莓蕉
+Yellow Berrynana=黃色莓蕉
+Purple Berrynana=紫色莓蕉
+Black Berrynana=黑色莓蕉
+Blue Berrynana=藍色莓蕉
+Pink Berrynana=粉紅色莓蕉
+Brown Berrynana=棕色莓蕉
+Orange Berrynana=橙色莓蕉
+Berrynana Peel=莓蕉皮
+
+Scorchberry=灼莓
+Napberry=眠莓
+
+Antidote=解毒劑
+
+Bugle of Friendship=友誼號角
+play=演奏
+
+Portable Stove=便攜式爐具
+Stove=爐具
+place=放置
+
+Flame=火焰
+
+campfire=營火
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m$"=無法點燃營火，因為有朋友失蹤！\n\n$1 $2米
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n(.+) (\d+)m$"=無法點燃營火，因為有朋友失蹤！\n\n$1 $2米\n$3 $4米
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n(.+) (\d+)m\n(.+) (\d+)m$"=無法點燃營火，因為有朋友失蹤！\n\n$1 $2米\n$3 $4米\n$5 $6米
+r:"^can't light campfire with friends missing!\n\n(.+) (\d+)m\n(.+) (\d+)m\n(.+) (\d+)m\n(.+) (\d+)m$"=無法點燃營火，因為有朋友失蹤！\n\n$1 $2米\n$3 $4米\n$5 $6米\n$7 $8米
+MORALE BOOST!!=士氣提升！！
+
+#護照#
+
+PASSPORT=護照
+Passport=護照
+Name=姓名
+Passport no.=護照號碼
+Nationality=國籍
+CRABLAND=蟹地
+
+##大廳##
+
+Invite Kiosk=邀請站
+Invite Friends=邀請好友
+Rope=繩索
+
+#登機#
+
+Gate Kiosk=登機站
+Board Flight=登機
+BOARDING PASS=登機牌
+r:"^PASSENGER:\n<size\=170%\>([^ ]+)$"=乘客：\n\n<size\=170%>$1
+GATE:\n<size\=170%>7\n=閘口：\n<size\=170%>\n7\n
+FROM:\n<size\=170%>ACG\n=出發地：\n<size\=170%>\nACG\n
+TO:\n<size\=170%>LFG\n=目的地：\n<size\=170%>\nLFG\n
+
+Tenderfoot=新手
+Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀爬消耗更少體力。飢餓增長較慢。無時間限制。
+
+Peak=頂峰
+The Island's default difficulty.=島嶼的預設難度。
+
+Ascent 1=攀登 1
+Fall Damage is greater.=墜落傷害更大。
+
+Ascent 2=攀登 2
+Hunger grows faster.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=飢餓增長更快。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+
+Ascent 3=攀登 3
+Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=道具重量增加。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+
+Ascent 4=攀登 4
+Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=頂峰無信號彈。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+
+Ascent 5=攀登 5
+The night is cold.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=夜晚寒冷。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+
+Ascent 6=攀登 6
+Climbing takes additional stamina.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=攀爬消耗更多體力。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+
+Ascent 7=攀登 7
+You cannot revive the dead.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=無法復活死亡者。\n\n<alpha\=#CC><size\=70%>包含所有先前修飾。
+
+r:"^Ascent (\d+) UNLOCKED!$"=攀登 $1 已解鎖！
+
+ASCENTS UNLOCKED=攀登已解鎖
+NICK KAMAN\nZORRO SVARDENDAHL\nPETTER HENRIKSSON=尼克·卡曼 佐羅·斯瓦登達爾 彼得·亨里克森
+GALEN DREW\nCAELAN RASHBY-POLLOCK\nWILHELM NYLUND\nERIK SKOG=蓋倫·德魯 凱蘭·拉什比-波洛克 威廉·尼倫德 艾瑞克·斯庫格
+PRESS ANY BUTTON TO CONTINUE=按任意鍵繼續
+
+REWARD:=獎勵：
+START=開始
+
+##指南書##
+
+Guidebook=指南書
+Open/Close=<size\=80%\>開啟/關閉
+Flip Page=翻頁
+
+How to Not Die=<size\=50%\>如何不死
+A Guide by\nScoutmaster Myres=指南由\n童軍領袖邁爾斯撰寫
+
+PREFACE=前言
+	Ahh....................................................................................................................................................................... nature.\n\nWhat greater ecstasy in this life than crunching down on a succulent granola bar while the wind blows across your scalp atop one of this world's many miraculous mountaintops?\n\nBut of course, nature is not just some fairground amusement, some attraction we might enjoy leisurely from behind glass! Indeed, nature is as dangerous as it is beautiful. And the view is much better from 10,000 feet up than 6 feet under! (Dead)\n\nIn my 40 years as a Scoutmaster, I've accumulated a variety of rules for surviving dangerous wilderness situations that should help you out in the unlikely event one of your scout outings goes horribly wrong. But of course, all of these rules pale in comparison to the guiding rule of all scoutdom...=<size\=28>	啊....................................................................................................................................................................... 大自然。\n\n在這個世界上，有什麼比在奇妙的山頂上，風吹過你的頭皮時，咬一口多汁的穀物棒更令人陶醉的呢？\n\n但當然，大自然不僅僅是遊樂場的娛樂設施，不是我們隔著玻璃悠閒欣賞的景點！的確，大自然既美麗又危險。從10,000英尺高處的景色遠比6英尺深的地下好看！（死亡）\n\n在我40年的童軍領袖生涯中，我積累了許多在危險荒野中生存的規則，這些規則應該能幫助你應對童軍活動不幸出錯的罕見情況。但當然，這些規則與童軍的最高準則相比都顯得微不足道...</size>
+
+RULE 0\n=規則 0\n
+NEVER ABANDON A FRIEND IN NEED!=永遠不要拋棄需要幫助的朋友！
+-Scoutmaster Myres=-童軍領袖邁爾斯
+
+RULE 1=規則 1
+KEEP MOVING!=<size\=70%\>繼續前進！
+
+	First things first: you've gotta get to HIGH GROUND if you wanna be spotted. Nobody ever got rescued off of a mysterious island by loitering around on the beach. So find the nearest peak, and start making your way there.=	首要任務：如果你想被發現，就必須到達高地。沒有人會因為在海灘上閒逛而從神秘島嶼上獲救。所以找到最近的山峰，開始朝那裡前進。
+r:"^(.+)Look around$"=$1環顧四周
+r:"^(.+)Walk$"=$1行走
+
+	Time is of the essence in the wilderness, so get running towards your destination!=	在荒野中時間寶貴，趕快跑向你的目的地！
+r:"^(.+)Sprint$"=$1衝刺
+
+	See a gap in the trail, or a prickly thorn? Go ahead and JUMP over it!=	看到小徑上的缺口或刺人的荊棘？大膽跳過去！
+
+	Keep in mind that jumping while sprinting will tire you out quickly! Take a quick rest if you need to - you won't do anyone any favors by passing out on the mountain!=	請記住，衝刺時跳躍會很快讓你筋疲力盡！如果需要，稍作休息——在山上昏倒對誰都沒好處！
+
+RULE 2=規則 2
+KEEP MOVING (UP)! =<size\=48>繼續向上前進！</size>
+
+	Obviously, you're not going to make it up a mountain without climbing.\n\nYou can climb almost any surface, so long as you have the stamina!=顯然，不攀爬你無法登上山頂。\n\n只要你有足夠的體力，幾乎任何表面都能攀爬！
+r:"^Hold(.+)empty-handed: Grab wall$"=<size\=50%\>保持$1空手：抓住牆壁
+r:"^(.+)in air: Grab wall$"=<size\=70%\>$1在空中：抓住牆壁
+r:"^(.+)while climbing: Lunge$"=$1攀爬時：衝刺
+
+RULE 3=規則 3
+ALWAYS LEND A HAND!=總是伸出援手！
+	Nothing is more important than sticking together as a team!\n\n	When your hands are empty, reach out to a friend who's mid-climb and help them reach the next ledge safely!=	沒有什麼比團隊團結更重要！\n\n當你的雙手空著時，伸手幫助正在攀爬的朋友，讓他們安全到達下一個岩架！
+r:"^(.+) EMPTY-HANDED: Help up friend$"=<size\=45%\>保持 $1 空手：幫助朋友爬上</size>
+
+	You can help from below, too! Crouch down and let a fellow scout stand on your head, then jump to give them a boost!=你也可以從下方幫忙！蹲下讓另一位童軍站在你頭上，然後跳起來給他們助力！
+
+RULE 4=規則 4
+STAY ALERT, STAY ALIVE!=<size\=45>保持警覺，活下去！</size>
+	An effective scout keeps an eye on their <color\=#0f7f00>Stamina Bar</color> at all times. If it runs out, you'll be temporarily unable to run, jump, and most importantly, climb. \n\n	Worst case scenario, you could fall off the mountain to your death, which is the worst thing to fall off to!=	一位高效的童軍時刻注意他們的<color\=#0f7f00>體力條</color>。如果體力耗盡，你將暫時無法跑步、跳躍，最重要的是無法攀爬。\n\n最壞的情況是你可能從山上墜落致死，這是最糟糕的墜落方式！
+
+RULE 5=規則 5
+LIFE IS PAIN!=生活即痛苦！
+	As you make your way through the untamed wilderness, it's inevitable that you'll get some scratches and bumps. \n\n	The more hurt you get, the less <color\=#0f7f00>Stamina</color> you'll have to run and climb, so tend to your injuries as soon as possible with a bandage or a healing herb!=	在未開化的荒野中前行，難免會有些擦傷和碰撞。\n\n你受傷越重，能用於跑步和攀爬的<color\=#0f7f00>體力</color>就越少，因此要盡快用繃帶或藥草處理傷口！
+
+RULE 6=規則 6
+STAY HUNGRY=<size\=45>保持飢餓\n\n</size>
+ \n<size\=30>(ACTUALLY, DON'T!)= \n<size\=40>(其實不要！)
+ 	Getting hurt isn't the only way for your <color\=#0f7f00>Stamina</color> to go downhill fast. As you climb, you'll find yourself experiencing <color\=#b58200>Hunger</color>, for which 10/10 experts recommend eating food.\n\n	Be cautious of eating plants from the wilderness! They could poison you and really mess up your day. If you have the option, choose a packaged snack from a corporation you trust!=	受傷不是讓你的<color\=#0f7f00>體力</color>迅速下降的唯一方式。在攀爬時，你會感到<color\=#b58200>飢餓</color>，10位專家中有10位建議吃食物。\n\n小心食用野外的植物！它們可能有毒，會嚴重影響你的一天。如果有選擇，挑選你信任的企業生產的包裝零食！
+
+RULE 7=規則 7
+DON'T OVERPACK!=不要超載！
+	Putting a backpack on is a great way to carry additional items, which can make the difference between life and death!\n\n	HOWEVER, the more <color\=#61380a>Weight</color> you carry, the less stamina you'll have to climb! An experienced scout knows to pack everything they need... and nothing more!=	背上背包是攜帶更多道具的好方法，這可能關乎生死！\n\n然而，你攜帶的<color\=#61380a>重量</color>越多，能用於攀爬的體力就越少！經驗豐富的童軍知道帶上所有必需品……不多不少！
+
+RULE 8=規則 8
+KEEP AN EYE OUT!=保持警惕！
+	In a survival situation, one of the worst things that can happen is getting separated from the group. \n\n	Maintain constant communication whenever possible, and point out your next route in advance to avoid leaving a friend behind!=	在生存情境中，最糟糕的事情之一就是與團隊失散。\n\n盡可能保持持續聯繫，並提前標記你的下一條路線，以免落下朋友！
+r:"^(.+):Ping Location$"=$1標記位置
+
+IN CONCLUSION=結論
+	Exploring the wilderness is a dangerous activity that can kill you instantly - but so is everything in this world worth doing, like falling in love.\n\nNever forget to be a good steward towards our beautiful world, and once again, never forget:=	探索荒野是一項危險的活動，可能瞬間致命——但這個世界上值得做的事情都是如此，比如墜入愛河。\n\n永遠不要忘記做我們美麗世界的良好管家，再次提醒，永遠不要忘記：
+
+Torn Page=撕裂的頁面
+Dear Diary, bad news!!!\n\n	The ship captain made an oopsy, and we've wound up crashed on this mysterious island! Thankfully, mysterious islands are my specialty.\n\n	With our whole troop working together, we'll reach the top of the PEAK and signal for help in no time!\n\n	In the meantime, I'll take this opportunity to add some additional pages to my famous guidebook.\n\n	<align\=right>-Scoutmaster Myres\n=親愛的日記，壞消息！！！\n\n	船長出了個大錯，我們撞上了這個神秘島嶼！幸好，神秘島嶼是我的專長。\n\n	只要我們整個團隊齊心協力，我們很快就能到達頂峰並發出求救信號！\n\n	與此同時，我將趁此機會為我的著名指南書添加一些額外頁面。\n\n	<align\=right>-童軍領袖邁爾斯\n
+
+r:"^(.+)Jump\n$"=$1跳躍\n
+r:"^(.+)Crouch$"=$1蹲下
+
+##撕裂頁面##
+
+r:"^BONUS RULE (\d+)$"=額外規則 $1
+
+WHERE'D EVERYONE GO?=大家都去哪了？
+
+#0#
+
+DON'T FORGET <size\=150%>RULE 0!=<size\=110%>不要忘記\n\n規則 0！
+RULE 0 RULE 0 RULE 0 RULE 0=<size\=70%\>規則 0 規則 0 規則 0 規則 0
+	Never Abandon a Friend in Need!=	永遠不要拋棄需要幫助的朋友！
+THEY=他們
+LEFT=離開
+ME=我
+BEHIND=被拋下
+
+#1#
+SCAN YOUR SHROOMS!=掃描你的菇類！
+	Mushrooms can be a valuable source of nutrition in the wilderness. But watch out!! Some of them can kill you, or even make you poop your pants.\n\n	There's always a way to tell the poisonous ones apart, though. Here's just one example!=菇類在野外可是珍貴的營養來源。但小心點！有些菇類會致命，甚至讓你嚇得拉褲子了。\n\n	不過，總有方法分辨哪些是有毒的。這裡只是一個例子！
+
+#2#
+GATHER 'ROUND THE FIRE!=圍繞營火集合！
+	If you find a nice place to light a campfire, make sure to bring your friends close by first! The fire brings something even better than heat and cooked food... and that's motivation!=如果你找到一個適合點燃營火的好地方，記得先把朋友們叫過來！營火帶來的可不只是溫暖和熟食……還有更棒的東西——動力！
+
+#3#
+EMBRACE THE OCCULT!=接受神秘力量！
+	Wuh woh! One of our scouts stepped on a sea urchin and died!!! I was about to get really sad... but one of the other kids touched a weird statue, and brought their friend back to life! \n\n\n\n\n\n\n	Seems like this island bends the rules of mortality itself... how wacky! Perhaps something else interesting might happen if we use a statue when everyone is still alive...=哇哦！我們的一個偵察員踩到海膽死了！本來我都要難過死了……但另一個小朋友摸了一座怪 statue，就把他的朋友復活了！\n\n\n\n\n\n\n看來這座島打破了死亡的規則……真瘋狂！或許當大家都還活著時再用 statue，會有更有趣的事情發生……
+
+#4#
+HUDDLE UP!=<size\=85%\>擠在一起！
+	As we approach the PEAK, the temperature has begun dropping dramatically. Seeking constant cover is a must, and getting caught out in the open when the wind is strong can be a death sentence.\n\n\n\n\n\n\n\n\n\n\n\n\n	If all else fails, huddling with your friends to share body heat might just save you from an icy grave.=隨著我們靠近頂峰，氣溫開始急劇下降。必須隨時找掩護，強風中暴露在空曠處簡直是死路一條。\n\n\n\n\n\n\n\n\n\n\n\n\n\n如果一切都無效，和朋友們擠在一起分享體溫，或許能救你免於凍死。
+
+#5#
+I JUST NEED A NAP...=\n我只是需要小睡一下……
+	I saw such a pretty sight... a beautiful moon-shaped fruit, surrounded by fireflies...\n\n	I feel so relaxed now... maybe a nap wouldn't be so bad...=我看到了一個好美的景象……一顆月亮形狀的漂亮水果，被螢火蟲包圍……\n\n現在我覺得好放鬆……小睡一下應該也不錯吧……
+
+#EXTRA RULES#
+BONUS RULE ?=額外規則？
+	I had such a wonderful nap, but when I woke up the rest of the troop was gone!\n\n	I'm sure they're just around the corner. They wouldn't be so foolish as to break <color\=red>Rule 0</color> just because I needed a little lie-down!=我睡了一個好舒服的覺，但醒來時整個隊伍都不見了！\n\n我相信他們就在附近。他們不會蠢到因為我小睡一下就違反<color\=red>規則0</color>吧！
+
+#?#
+We Made it!!\nEven without our scoutmaster's help, we managed to get rescued!\n\nSněžnýPerník managed to make it up first.\nZedorfska made it out without a scratch.\nCaptainBear was injured but in great spirits.\nSqudel & Kirpich are a little bruised. Good thing they had each other!\nRonokopl kept the team fed and safe.\n\nMr. Myres, if you're reading this... We couldn't find you!! I'm sorry!=我們成功了！\n即使沒有領隊的幫忙，我們還是獲救了！\n\nSněžnýPerník第一個登頂。\nZedorfska毫髮無傷地脫險。\nCaptainBear受了傷但精神很好。\nSqudel和Kirpich有點瘀傷，幸好他們有彼此！\nRonokopl讓隊伍吃飽又安全。\n\nMyres先生，如果你在讀這個……我們找不到你！對不起！
+
+#?2#
+Dear Diary, bad news!!!\n\n	The ship captain made an oopsy, and we've wound up crashed on this mysterious island! Thankfully, mysterious islands are my specialty.\n\n	With our whole troop working together, we'll reach the top of the PEAK and signal for help in no time!\n\n	In the meantime, I'll take this opportunity to add some additional pages to my famous guidebook.\n\n	<align\=right>-Scoutmaster Myres\n=親愛的日記，壞消息！\n\n船長出了個大錯，我們撞上了這個神秘島嶼！幸好，神秘島嶼是我的專長。\n\n只要我們整個隊伍齊心協力，很快就能登上頂峰並發出求救信號！\n\n與此同時，我要趁機為我的著名指南書再添幾頁。\n\n<align\=right>-領隊Myres\n
+
+#?3#
+	This is a blank page.\n=這是一頁空白。\n
+
+##報告##
+
+spectating:=觀察：
+YOURSELF=你自己
+<size\=125%>YOUR FRIENDS\nLEFT YOU TO DIE=<size\=125%>你的朋友\n丟下你等死
+DEAD=死亡
+YOU PEAKED=你登頂了
+
+PROMOTED TO;=晉升為；
+NEW FIT!=新造型！
+NEW SASH!=新腰帶！
+NEW LOOK!=新外觀！
+NEW HAT!=新帽子！
+
+get resurrected at the statue!=在雕像處復活！
+you are a ghost\n\n\n=你是幽靈\n\n\n
+
+YOUR BODY WAS\n<size\=125%>NEVER FOUND=<size\=44>你的遺體\n從未被找到</size>
+SCOUTING REPORT=偵察報告
+TIME\n=時間\n
+r:"^(\d+)m$"=$1分
+TIMELINE=時間線
+NEW BADGES=新徽章
+NEXT=下一步
+
+##地方##
+
+THE FOG RISES...=霧氣升起……
+
+S=海
+SH=海岸
+SHO=海岸
+SHOR=海岸邊
+SHORE=海岸邊
+
+T=<size\=80%\>熱
+TR=<size\=80%\>熱帶
+TRO=<size\=80%\>熱帶
+TROP=<size\=80%\>熱帶地
+TROPI=<size\=80%\>熱帶地
+TROPIC=<size\=80%\>熱帶地區
+TROPICS=<size\=80%\>熱帶地區
+
+A=阿
+AL=阿爾
+ALP=阿爾卑
+ALPI=阿爾卑斯
+ALPIN=阿爾卑斯山
+ALPINE=阿爾卑斯山脈
+
+C=<size\=75%\>火
+CA=<size\=75%\>火
+CAL=<size\=75%\>火山
+CALD=<size\=75%\>火山
+CALDE=<size\=75%\>火山
+CALDER=<size\=75%\>火山口
+CALDERA=<size\=75%\>火山口
+
+TH=窯
+THE=窯
+THE =窯
+THE K=窯洞
+THE KI=窯洞
+THE KIL=窯洞
+THE KILN=窯洞
+
+P=山
+PE=山
+PEA=山頂
+PEAK=山頂
+
+##玩家##
+
+r:"^(.+)'s backpack$"=$1的背包
+r:"^Carry (.+)$"=攜帶 $1
+r:"^feed to (.+)$"=餵給 $1
+r:"^heal (.+)$"=治療 $1
+r:"^heat up (.+)$"=溫暖 $1
+r:"^Drop (.+)$"=丟棄 $1
+Ancient Statue=古老雕像
+Revive Scouts=復活偵察員
+waiting for all players...=等待所有玩家……
+
+#輸入/出#
+
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
+
+##致謝##
+
+<b><u>AGGRO CRAB PUBLISHING</b></u>\r\nCorey Warning\r\nPaige Wilson\r\n\r\n<b><u>LANDFALL PUBLISHING</b></u>\r\nHanna Fogelberg\r\nTim Käll\r\nRebecca Lautner\r\nAlivia Mantel\r\nKirsten-Lee Naidoo\r\nLisabeth Räisänen\r\n\r\n<b><u>LANDFALL HOUSE</b></u>\r\nMadelene Holmen\r\nJonathan Skoogh\r\n\r\n<b><u>KEY ART</b></u>\r\nArthur Bates\r\n\r\n<b><u>LOCKIT QA</b></u>\r\nMichaël Lelièvre\r\r\r\nFlorian Lelièvre\r\nGabriel Tissot-Ritchot\r\nPawel Zielinski\n\n<b><u>INDIUM PLAY</b></u>\nAnastasija Krstevska\r\nAndrej Arsov\r\nFilip Georgijev\r\nLjubomir Simonovikj\r\n\r\n<b><u>POPAGENDA</b></u>\r\nGeneviève St-Onge\r\nMarie-Christine Bourdua\r\nNicolas Bertrand-Verge\r\nJurge Cruz-Alvarez\r\nAudrey-Anne Boucher\r\nJules Engel\r\nMegan Hilario\r\nCody Gravelle\r\nJennifer Locke\r\nStephanie Herdman\r\n\r\n<b><u>PLAYTESTERS</b></u>\r\nCaptainBear\r\nSneznyPernik\r\nTymofii “o_pivko” Pieshkov-Stafieiev\r\nZvyezdana "Zedorfska" Plečko\r\nZoo Marcy\r\nTymofii Pieshkov-Stafieiev\r\nRio “Diamondragon4” Bacha\r\nPhaytox\r\nCarter R J.Matos\r\nRonokopl\r\nLuis "SKG" Rosario\r\nlegitnub\r\nHarren Tonderen\r\nGoogly Eyes\r\n\r\n<b><u>SPECIAL THANKS</b></u>\r\nBenjamin Myres\r\nCJ Kimberlin\r\nJoanna Lin\r\nKevin Sorensen\r\nAkiko Mueller\r\nWinter MacFarland\r\nPhillip Corrado\r\nFelix Peaslee\r\nKyle Chin\r\nLillian Mak\r\nMaximilian Runelind\r\nAshley Hauck\r\nPetter Vilberg\r\nFreya Holmer\r\nKela van der Deijl\r\nSarah Burk\r\nMarcus Bromander\n\rJulia Goldmann\nWalter Tischkewitz\r\nEmma Thiry\nLilliana\nSabrina Tobe\n\rAmanda Wiking\nGrace Bruxner\r\n\r\n=<b><u>AGGRO CRAB PUBLISHING</b></u>\r\nCorey Warning\r\nPaige Wilson\r\n\r\n<b><u>LANDFALL PUBLISHING</b></u>\r\nHanna Fogelberg\r\nTim Käll\r\nRebecca Lautner\r\nAlivia Mantel\r\nKirsten-Lee Naidoo\r\nLisabeth Räisänen\r\n\r\n<b><u>LANDFALL HOUSE</b></u>\r\nMadelene Holmen\r\nJonathan Skoogh\r\n\r\n<b><u>KEY ART</b></u>\r\nArthur Bates\r\n\r\n<b><u>LOCKIT QA</b></u>\r\nMichaël Lelièvre\r\r\r\nFlorian Lelièvre\r\nGabriel Tissot-Ritchot\r\nPawel Zielinski\n\n<b><u>INDIUM PLAY</b></u>\nAnastasija Krstevska\r\nAndrej Arsov\r\nFilip Georgijev\r\nLjubomir Simonovikj\r\n\r\n<b><u>POPAGENDA</b></u>\r\nGeneviève St-Onge\r\nMarie-Christine Bourdua\r\nNicolas Bertrand-Verge\r\nJurge Cruz-Alvarez\r\nAudrey-Anne Boucher\r\nJules Engel\r\nMegan Hilario\r\nCody Gravelle\r\nJennifer Locke\r\nStephanie Herdman\r\n\r\n<b><u>PLAYTESTERS</b></u>\r\nCaptainBear\r\nSneznyPernik\r\nTymofii “o_pivko” Pieshkov-Stafieiev\r\nZvyezdana "Zedorfska" Plečko\r\nZoo Marcy\r\nTymofii Pieshkov-Stafieiev\r\nRio “Diamondragon4” Bacha\r\nPhaytox\r\nCarter R J.Matos\r\nRonokopl\r\nLuis "SKG" Rosario\r\nlegitnub\r\nHarren Tonderen\r\nGoogly Eyes\r\n\r\n<b><u>SPECIAL THANKS</b></u>\r\nBenjamin Myres\r\nCJ Kimberlin\r\nJoanna Lin\r\nKevin Sorensen\r\nAkiko Mueller\r\nWinter MacFarland\r\nPhillip Corrado\r\nFelix Peaslee\r\nKyle Chin\r\nLillian Mak\r\nMaximilian Runelind\r\nAshley Hauck\r\nPetter Vilberg\r\nFreya Holmer\r\nKela van der Deijl\r\nSarah Burk\r\nMarcus Bromander\n\rJulia Goldmann\nWalter Tischkewitz\r\nEmma Thiry\nLilliana\nSabrina Tobe\n\rAmanda Wiking\nGrace Bruxner\r\n\r\n\n<b><u>中文化</b></u>\r\n\n某翻譯團隊\r\n\r\n譯者A\r\n&\r\n譯者B\r\n\r\n
+
+#版本#
+
+Version out of date=版本過舊
+Okay=好
+
+##???##
+
+Ready for a greater challenge? Ascents add modifiers that make summiting the PEAK more difficult.\n\nSet your Ascent Level at the Airport Kiosk!=準備好迎接更大的挑戰了嗎？提升難度會增加modifier，讓登頂更具挑戰性。\n\n在機場服務台設定你的提升等級！
+Header Field=標頭欄位
+subheader subheader subheader=副標題 副標題 副標題
+DEV_MESSAGE=開發者訊息
+Option A=選項 A
+Prompt=提示
+Bingus=賓格斯
+SmashyNick\n=SmashyNick\n
+afternoon=下午
+night=夜晚
+morning=早晨
