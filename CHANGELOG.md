@@ -1,5 +1,14 @@
 </details>
 
+**<details><summary>v1.0.4-zh_tw(2025/06/28)</summary>**
+
+### 翻譯基於版本 `v1.5.a`
+
+### 更新内容
+* 緊急修正v1.0.3 FallbackFontTextMeshPro=misans_tc_vf_sdf_4808 的名字問題
+ 
+</details>
+
 **<details><summary>v1.0.3-zh_tw(2025/06/27)</summary>**
 
 ### 翻譯基於版本 `v1.5.a`
