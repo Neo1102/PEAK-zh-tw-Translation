@@ -1,0 +1,202 @@
+##keys in UI.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+
+##雜項##
+Version out of date=版本過舊
+Okay=好
+Ready for a greater challenge? Ascents add modifiers that make summiting the PEAK more difficult.\n\nSet your Ascent Level at the Airport Kiosk!=準備好迎接更大的挑戰了嗎？提升難度會增加不同攀登挑戰，讓登頂更具挑戰性。\n\n在登機檯設定你的提升等級！
+Header Field=標頭欄位
+subheader subheader subheader=副標題 副標題 副標題
+DEV_MESSAGE=開發者訊息
+Option A=選項 A
+Prompt=提示
+Bingus=賓格斯
+afternoon=下午
+night=夜晚
+morning=早晨
+
+##主選單##
+HOST GAME=創建遊戲
+PLAY OFFLINE=單機遊玩
+SETTINGS\n=設定\n
+CREDITS=製作團隊
+QUIT=退出
+
+NEW ISLAND IN=<size\=80%\>島嶼地圖更換倒數
+r:(\d+)h (\d+)m (\d+)s=<size\=80%>$1時 $2分 $3秒
+r:(\d+)h(\d+)h(\d+)h=<size\=80%>$1時$2時$3時
+NO DATA=<size\=90%\>無資料
+
+Thank you for playing PEAK! Pro tip, tapping SPRINT while climbing makes you do a LUNGE!=感謝您遊玩 PEAK！小提示：在攀爬時點擊衝刺可以進行衝刺跳躍！
+Thank you for playing PEAK! Sorry about the floating luggage!=感謝您遊玩 PEAK！抱歉有漂浮的行李！
+We're investigating crashes, disconnects and other major issues! Thanks for your patience <3=我們正在調查遊戲崩潰、斷線及其他重大問題！感謝您的耐心 <3
+Tropics crash has been resolved! More fixes coming soon. Thanks for your patience <3=熱帶地區的崩潰問題已解決！更多修復即將推出，感謝您的耐心 <3
+
+##製作團隊##
+A GAME MADE BY=遊戲製作
+A COLLAB BETWEEN=合作單位
+THANKS FOR PLAYING!=感謝遊玩！
+
+##暫停##
+RESUME=繼續
+LEAVE GAME\n=離開遊戲\n
+INVITE FRIENDS=<size\=85%>邀請好麻吉們來玩
+
+##動作##
+CONTROLS=操作
+open=開啟
+eat=吃
+drink=飲用
+use\n=使用\n
+throw=投擲
+zoom=放大
+drop=丟棄
+hold\n=長按\n
+pick up=拾取
+Grab=抓住
+cook=烹飪
+give up=放棄
+lunge=衝刺
+
+Move=移動
+Aim\n=瞄準\n
+Climb\n=攀爬\n
+Helping Hand=援手
+Interact=互動
+Drop / Throw (hold)=丟棄/投擲（長按）
+Jump\n=跳躍\n
+Crouch\n=蹲下\n
+Sprint / Leap (while climbing)\n=衝刺/跳躍（攀爬時）\n
+Ping Location\n=標記位置\n
+EMOTE\n=表情動作\n
+
+Light Lantern=點亮燈籠
+Snuff Lantern=熄滅燈籠
+light=點燃
+spool=展開
+tie knot=綁繩結
+heal injuries=治療傷口
+lick=舔
+Inspect=檢查
+Open=開啟
+set piton=放置岩釘
+set=放置
+shoot=發射
+fire=射擊
+Remove tick=移除蜱蟲
+heat up=加熱
+look=觀看
+Plant=放置
+commune=聯繫
+open?=要開啟嗎？
+revive=復活
+warp=傳送
+play=演奏
+Stove=爐具
+place=放置
+Flame=火焰
+campfire=營火
+
+r:"^(.+)'s backpack$"=$1的背包
+r:"^Carry (.+)$"=攜帶 $1
+r:"^feed to (.+)$"=餵給 $1
+r:"^heal (.+)$"=治療 $1
+r:"^heat up (.+)$"=送温暖給$1
+r:"^Drop (.+)$"=丟棄 $1
+Ancient Statue=古老雕像
+Revive Scouts=復活偵察員
+waiting for all players...=等待所有玩家……
+
+r:"^can't light campfire with friends missing!$"=朋友去哪了？目前不能點燃營火QAQ
+r:"^(.+) (\d+)m$=$1 距離你$2米
+MORALE BOOST!!=士氣提升！！
+
+Controls remapping is not currently supported.\nYou can use Steam Input to remap gamepads.=目前不支援操作映射。\n您可以使用 Steam Input 來映射手柄按鍵。
+
+##表情動作##
+
+Salute=敬禮
+Thumbs Up=豎起大拇指
+Think=思考
+No-No=搖頭拒絕
+Play Dead=裝死
+Shrug=聳肩
+Crossed Arms=雙臂交叉
+Dance=跳舞
+
+##道具的形容詞、##
+r:"^(\d+\.\d+)m$"=$1米
+wear<br> Backpack=背起<br>背包
+sr:"^stash<br>(.+)$"=放下<br>$1
+sr:"^take<br>(.+)$"=拿起<br>$1
+
+sr:"^Cooked (.+)$"=熟透的$1
+sr:"^Well-done (.+)$"=烤得恰好的$1
+sr:"^Burnt (.+)$"=燒焦的$1
+sr:"^Incinerated (.+)$"=炭化的$1
+
+##護照##
+
+PASSPORT=護照
+Passport=護照
+Name=姓名
+Passport no.=護照號碼
+Nationality=國籍
+CRABLAND=蟹蟹島
+
+##大廳##
+
+Invite Kiosk=邀請檯
+Invite Friends=邀請好麻吉們來玩
+Rope=繩索
+
+##登機##
+
+Gate Kiosk=登機檯
+Board Flight=登機
+BOARDING PASS=登機牌
+r:"^PASSENGER:\n<size\=170%\>([^ ]+)$"=乘客：\n\n<size\=170%>$1
+GATE:\n<size\=170%>7\n=閘口：\n<size\=170%>\n7\n
+FROM:\n<size\=170%>ACG\n=出發地：\n<size\=170%>\nACG\n
+TO:\n<size\=170%>LFG\n=目的地：\n<size\=170%>\nLFG\n
+
+##報告##
+spectating:=正在觀察：
+YOURSELF=你自己
+<size\=125%>YOUR FRIENDS\nLEFT YOU TO DIE=<size\=125%>你的朋友無奈地丟下你\n讓你獨自面對死亡
+DEAD=死亡
+YOU PEAKED=你登頂了
+
+PROMOTED TO;=晉升為；
+NEW FIT!=新造型！
+NEW SASH!=新腰帶！
+NEW LOOK!=新外觀！
+NEW HAT!=新帽子！
+
+get resurrected at the statue!=在雕像處復活！
+you are a ghost\n\n\n=你是阿飄\n\n\n
+
+YOUR BODY WAS\n<size\=125%>NEVER FOUND=<size\=44>你的遺體\n最後還是沒被找到</size>
+SCOUTING REPORT=偵察報告
+TIME\n=時間\n
+r:"^(\d+)m$"=$1分
+TIMELINE=時間線
+NEW BADGES=新徽章
+NEXT=下一步
+
+#玩家進/出#
+
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964> $1</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $2</color><color\=#A0EC64> 加入探險</color>\n<color\=#FFB964>$3<color\=#FF7373> 離開探險</color>\n
+r:"^<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964>(.+)</color><color\=#FF7373> left the expedition</color>\n<color\=#FFB964> (.+)</color><color\=#A0EC64> joined the expedition</color>\n$"=<color\=#FFB964>$1<color\=#FF7373> 離開探險</color>\n<color\=#FFB964>$2<color\=#FF7373> 離開探險</color>\n<color\=#FFB964> $3</color><color\=#A0EC64> 加入探險</color>\n

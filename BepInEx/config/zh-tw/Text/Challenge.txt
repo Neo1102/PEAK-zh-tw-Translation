@@ -1,0 +1,36 @@
+#攀登挑戰#
+
+Tenderfoot=新手
+Climbing takes less stamina. Hunger grows more slowly. No time limit.=攀爬消耗更少體力。飢餓增長較慢。無時間限制。
+
+Peak=頂峰
+The Island's default difficulty.=島嶼的預設難度。
+
+Ascent 1=攀登挑戰 1
+Fall Damage is greater.=墜落傷害更大。
+
+Ascent 2=攀登挑戰 2
+Hunger grows faster.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=會更快感到餓\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+
+Ascent 3=攀登挑戰 3
+Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=道具重量增加\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+
+Ascent 4=攀登挑戰 4
+#[WRONG] Items have increased weight.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=頂峰無信號彈\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果#
+
+Ascent 5=攀登挑戰 5
+The night is cold.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=夜晚變得寒冷\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+
+Ascent 6=攀登挑戰 6
+Climbing takes additional stamina.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=攀爬消耗更多體力\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+
+Ascent 7=攀登挑戰 7
+You cannot revive the dead.\n\n<alpha\=#CC><size\=70%>And all previous modifiers.=死亡後無法復活\n\n<alpha\=#CC><size\=70%>還包含先前的所有效果
+
+r:"^Ascent (\d+) UNLOCKED!$"=攀登挑戰 $1 已解鎖！
+
+ASCENTS UNLOCKED=攀登挑戰已解鎖
+PRESS ANY BUTTON TO CONTINUE=按任意鍵繼續
+
+REWARD:=獎勵：
+START=開始

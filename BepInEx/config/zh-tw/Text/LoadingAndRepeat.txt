@@ -1,4 +1,12 @@
-##Loading.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+##LoadingAndRepeat.txt was origin from team RTLC, zh-tw translate by Voc-夜芷冰
+
+##加載頁面##
+THIS GAME USES VOICE CHAT=<size\=90%\>此遊戲使用語音聊天
+PLEASE USE HEADPHONES AND A MICROPHONE=請使用耳機和麥克風
+SELECT MICROPHONE=選擇麥克風
+CONTINUE=繼續
+Connecting...=連線中...
+Authenticating...=驗證中...
 
 L=載
 LO=載入
@@ -32,10 +40,10 @@ LOADING...LOADING...LOADING..=載入中...載入中...載入中..
 LOADING...LOADING...LOADING...=載入中...載入中...載入中...
 LOADING...LOADING...LOADING...L=載入中...載入中...載入中...載
 
-D=天
-DA=天
-DAY=天
-DAY =天
+D=第
+DA=第
+DAY=第
+DAY =第
 DAY O=第一天
 DAY ON=第一天
 DAY ONE=第一天
@@ -85,3 +93,49 @@ Day Si=第六天
 Day Six=第六天
 
 r:"^Day (\d+)$"=第$1天
+
+##地方##
+
+THE FOG RISES...=霧氣升起……
+
+S=海
+SH=海岸
+SHO=海岸
+SHOR=海岸邊
+SHORE=海岸邊
+
+T=<size\=80%\>熱
+TR=<size\=80%\>熱帶
+TRO=<size\=80%\>熱帶
+TROP=<size\=80%\>熱帶地
+TROPI=<size\=80%\>熱帶地
+TROPIC=<size\=80%\>熱帶地區
+TROPICS=<size\=80%\>熱帶地區
+
+A=阿
+AL=阿爾
+ALP=阿爾卑
+ALPI=阿爾卑斯
+ALPIN=阿爾卑斯山
+ALPINE=阿爾卑斯山脈
+
+C=<size\=75%\>火
+CA=<size\=75%\>火
+CAL=<size\=75%\>火山
+CALD=<size\=75%\>火山
+CALDE=<size\=75%\>火山
+CALDER=<size\=75%\>火山口
+CALDERA=<size\=75%\>火山口
+
+TH=窯
+THE=窯
+THE =窯
+THE K=窯洞
+THE KI=窯洞
+THE KIL=窯洞
+THE KILN=窯洞
+
+P=山
+PE=山
+PEA=山頂
+PEAK=山頂
