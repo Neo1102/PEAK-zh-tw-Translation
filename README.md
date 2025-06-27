@@ -1,10 +1,13 @@
-![PEAK_ZH_TW_ICON](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/icon.png)
+![PEAK_ZH_TW_LOGO](https://raw.githubusercontent.com/Vocaloid2048/PEAK-zh-tw-Translation/refs/heads/main/Logo.png)
 # PEAK 繁體中文翻譯模組 by Voc-夜芷冰
-![version](https://img.shields.io/badge/version-1.0.2-pink)
+![version](https://img.shields.io/badge/version-1.0.3-pink)
 ![make-with-love](https://camo.githubusercontent.com/da124fe0d303f3da8682918930b2f99caf16cda69474c01b4c48598d38f71613/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d616b655f776974685f2545322539442541342545462542382538462d7768697465)
 
 ## 感謝使用本翻譯模組
 - 如對你有幫助，請給個讚和收藏吧 :D
+- 使用MiSans TC VF 字體作替代用
+  - 基於 [教育部常用字4808字.txt](https://github.com/Watermelonnn/ChineseUsefulToolKit/blob/master/%E6%95%99%E8%82%B2%E9%83%A8%E5%B8%B8%E7%94%A8%E5%AD%974808%E5%AD%97.txt) 來製作
+  - Unity font asset creator -> AssetsBundle Browser
 - 發現翻譯有問題嗎？可以到 [Coding Band](https://discord.gg/uXatcbWKv2) 的 [`👾｜問題發表｜questions`](https://discord.com/channels/880921456903618610/1067563572865024223) 提出<br>
 - 也歡迎各位大大在 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation/) 提交 Issues & PR
 - 如有需要，可以透過Discord私信我：`vocaloid2048`

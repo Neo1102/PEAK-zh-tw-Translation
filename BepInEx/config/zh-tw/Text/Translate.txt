@@ -10,7 +10,6 @@ Connecting...=連線中...
 Authenticating...=驗證中...
 
 ##主選單##
-
 HOST GAME=創建遊戲
 PLAY OFFLINE=單機遊玩
 SETTINGS\n=設定\n
