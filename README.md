@@ -35,7 +35,7 @@
   - 不然的話會當作釣魚
 
 ## 🚧請留意！
-- 本模組並非官方製作，部分内容由AI輔助翻譯，或有文法錯漏！<br>
+- 本模組並非官方製作，部分內容由AI輔助翻譯，可有文法錯誤！<br>
 - 本模組是由 `Coding Band` 的 Voc-夜芷冰 基於 [PEAK Russian Translation](https://thunderstore.io/c/peak/p/RTLC/PEAK_Russian_Translation/) 製作<br>
 - 目前僅在 [Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/) 和 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation) 發佈
 - 歡迎到 [`⛰️丨攀爬好手丨peak-chat`](https://discord.com/channels/880921456903618610/1387706673875124344) 一起分享心得哦~<br>
