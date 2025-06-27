@@ -3,10 +3,28 @@
 **<details><summary>v1.0.3-zh_tw(2025/06/27)</summary>**
 
 ### 翻譯基於版本 `v1.5.a`
+
+### 更新内容
 * 稍微修改了一下Logo
 * 套用MiSans TC VF 字體來解決 TextMeshPro 顯示為方格問題
   * Unity font asset creator -> AssetsBundle Browser
 * 修正部分翻譯 (雜)
+* 把翻譯重新分類放置
+ 
+</details>
+
+**<details><summary>v1.0.2-zh_tw(2025/06/26)</summary>**
+
+### 翻譯基於版本 `v1.5.a`
+* 修正部分翻譯
+* 發了巴哈文w
+ 
+</details>
+
+**<details><summary>v1.0.1-zh_tw(2025/06/26)</summary>**
+
+### 翻譯基於版本 `v1.5.a`
+* Thunderstore 上載測試
  
 </details>
 

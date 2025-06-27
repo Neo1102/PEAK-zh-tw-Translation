@@ -20,16 +20,21 @@
 - 目前僅在 [Thunderstore](https://thunderstore.io/c/peak/p/Vocaloid2048/PEAK_Traditional_Chinese_Translation/) 和 [GitHub](https://github.com/Vocaloid2048/PEAK-zh-tw-Translation) 發佈
 - 歡迎到 [`⛰️丨攀爬好手丨peak-chat`](https://discord.com/channels/880921456903618610/1387706673875124344) 一起分享心得哦~<br>
 
-## ✒️目前翻譯了...
-- 主頁面、物品 (Translate.txt)
-- 載入、天數 (Loading.txt)
-- 烤過的物品 (Cooked.txt)
-- 拿起/放下 (Stash Take.txt)
+## ✒️翻譯内容放在...
+|檔案名字|分類|
+|---|---|
+|Achievement.txt|成就、徽章、階級相關|
+|Book.txt|求生指南|
+|Challenge.txt|攀登挑戰相關|
+|Item.txt|物品|
+|LoadingAndRepeat.txt|加載頁面、進度式重覆内容|
+|Settings.txt|設定頁|
+|UI.txt|介面、動作等雜項|
 
 ## 💭夜芷冰的呢喃
 ```
-各位安安~ 這裏是夜芷冰 ||寫星鐵app的那個||
-最近在朋友的推薦下得悉這款酷酷的~~損友~~遊戲
+各位安安~ 這裏是夜芷冰 (寫星鐵app的那個)
+最近在朋友的推薦下得悉這款酷酷的遊戲
 不過目前只有英文版 實在有點卻步...
 
 本來打算直接找找有沒有繁體中文翻譯的模組

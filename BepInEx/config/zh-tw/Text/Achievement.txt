@@ -38,6 +38,7 @@ Read all of Scoutmaster Myres's journal entries.=閱讀童軍領袖邁爾斯的�
 Escape the island without placing anything on the mountain.=山上不遺留任何物品下逃離島嶼。
 Climb 50m upwards without touching the ground.=向上攀登50米不觸碰地面。
 
+##徽章##
 Beachcomber Badge=海岸探險者徽章
 Trailblazer Badge=開拓者徽章
 Alpinist Badge=阿爾卑斯登山者徽章
@@ -71,7 +72,7 @@ Leave No Trace Badge=無痕徽章
 Gourmand Badge=美食家徽章
 Bookworm Badge=書蟲徽章
 
-#階級#
+##階級##
 Tadpole Scout=蝌蚪童軍
 TADPOLE SCOUT=蝌蚪童軍
 Rabbit Scout=兔子童軍
