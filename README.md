@@ -2,6 +2,26 @@
 # PEAK 繁體中文翻譯模組 by Voc-夜芷冰
 ![version](https://img.shields.io/badge/version-1.0.3-pink)
 ![make-with-love](https://camo.githubusercontent.com/da124fe0d303f3da8682918930b2f99caf16cda69474c01b4c48598d38f71613/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d616b655f776974685f2545322539442541342545462542382538462d7768697465)
+[![wakatime](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51/project/97d38b2f-ce2b-418e-9492-9f3687c2bf1a.svg)](https://wakatime.com/badge/user/ca727ba5-9112-4612-b454-d5e407277a51/project/97d38b2f-ce2b-418e-9492-9f3687c2bf1a)
+
+## ⚠️前置步驟！！！發現字體展示為「☐☐☐」 
+### 別慌！請先試試這個方法 (Gale Mod Manager)
+- 先在 Gale Mod Manager 右鍵剛剛安裝好的繁中翻譯模組
+- 選擇 `Open folder` 開啟檔案總管後，應見到一個 `misans_tc_vf_sdf_xxxx` 檔案
+  - 這個是字體（TextMeshPro） 檔案，打不開是正常的，不要改動它的名字
+- 複製該檔案，並在 `PEAK 遊戲根目錄` 貼上
+  - 位置: `安裝的SteamLibrary位置\steamapps\common\PEAK\`
+- 透過 Glae Mod Manager 啟動遊戲，看到主頁面Logo上方版本括號内不是☐☐☐即可
+
+### 別慌！請先試試這個方法 (手動安裝)
+- 先在本repo按下 `misans_tc_vf_sdf_xxxx` 並下載
+- 複製該檔案，並在 `PEAK 遊戲根目錄` 貼上
+  - 位置: `安裝的SteamLibrary位置\steamapps\common\PEAK\`
+- 啟動遊戲，看到主頁面Logo上方版本括號内不是☐☐☐即可
+
+### 版本内文字不是☐☐☐！不過遊戲内有些地方是誒
+- 這個可能是因爲這邊字體沒有包含該文字
+- 請透過 GitHub / Discord 反饋給我，（附上圖片）指出該文字，以便修正，謝謝！
 
 ## 感謝使用本翻譯模組
 - 如對你有幫助，請給個讚和收藏吧 :D
